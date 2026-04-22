@@ -6,10 +6,6 @@ This is my personal portfolio website built using React. It showcases my project
 
 👉 https://lakshayb09.github.io/portfolio/
 
-## 📁 GitHub Repository
-
-👉 https://github.com/lakshayb09/portfolio
-
 ---
 
 ## 🛠️ Tech Stack
